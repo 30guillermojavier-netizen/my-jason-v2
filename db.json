@@ -1,5 +1,6 @@
 {
-  "header": {
+  "api": {
+     "header": {
     "image": "https://cdn.buttercms.com/4V0FwDUuSJqNbz38oWCq",
     "options": [
       {
@@ -166,4 +167,7 @@
       "Mapa del sitio"
     ]
   }
+  }
+  
+ 
 }
