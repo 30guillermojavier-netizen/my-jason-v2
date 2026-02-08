@@ -1,0 +1,169 @@
+{
+  "header": {
+    "image": "https://cdn.buttercms.com/4V0FwDUuSJqNbz38oWCq",
+    "options": [
+      {
+        "id": 1,
+        "text": "Inicio",
+        "link": "https://www.lifemiles.com"
+      },
+      {
+        "id": 2,
+        "text": "Youtube",
+        "link": "https://www.youtube.com/"
+      },
+      {
+        "id": 3,
+        "text": "Facebook",
+        "link": "https://facebook.com/"
+      },
+      {
+        "id": 4,
+        "text": "Linkedin",
+        "link": "https://Linkedin.com"
+      }
+    ]
+  }, 
+  "bannerImage": "https://cdn.buttercms.com/QPcK5AC9SKGqtuE5K4Yp",
+
+  "bannerTexts": {
+    "title": "Bienvenido a tu próxima aventura",
+    "descriptions": [
+      "Descubre destinos increíbles alrededor del mundo con experiencias únicas.",
+      "Viaja cómodo, seguro y al mejor precio con nuestras ofertas exclusivas."
+    ]
+  },
+
+  "offerSection": {
+    "container": {
+      "image": {
+        "url": "https://example.com/images/travel-offer.jpg",
+        "alt": "Oferta especial de viaje"
+      },
+      "form": {
+        "title": "Aprovecha esta oferta especial",
+        "description": "Déjanos tus datos y uno de nuestros asesores te contactará para brindarte más información.",
+        "fields": {
+          "fullName": {
+            "label": "Nombre completo",
+            "placeholder": "Ej: Juan Pérez",
+            "errors": {
+              "required": "El nombre completo es obligatorio",
+              "invalid": "Ingresa al menos un nombre y un apellido"
+            },
+            "regex": "^[A-Za-zÁÉÍÓÚáéíóúÑñ]+\\s+[A-Za-zÁÉÍÓÚáéíóúÑñ]+(\\s*[A-Za-zÁÉÍÓÚáéíóúÑñ]*)*$"
+          },
+          "email": {
+            "label": "Correo electrónico",
+            "placeholder": "ejemplo@correo.com",
+            "errors": {
+              "required": "El correo electrónico es obligatorio",
+              "invalid": "Ingresa un correo electrónico válido"
+            },
+            "regex": "^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$"
+          },
+          "phone": {
+            "label": "Teléfono",
+            "placeholder": "Ej: +503 7123 4567",
+            "errors": {
+              "required": "El número de teléfono es obligatorio"
+            }
+          }
+        },
+        "submitButton": {
+          "text": "Solicitar información"
+        },
+        "formErrors": {
+          "emptyFields": "Todos los campos son obligatorios",
+          "invalidForm": "Por favor corrige los errores antes de enviar el formulario"
+        }
+      }
+    }
+  },
+"destinationsSection": {
+    "description": "Explora algunos de nuestros destinos más populares y comienza a planear tu próxima experiencia de viaje.",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://cdn.buttercms.com/gSR1xcL2RiK0A3pwA2xs",
+        "title": "París, Francia",
+        "subtitle": "La ciudad del amor y la cultura",
+        "button": {
+          "text": "Ver destino",
+          "link": "https://example.com/destinos/paris"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://cdn.buttercms.com/j8LQL3lCR0ubJlYGBgUR",
+        "title": "Tokio, Japón",
+        "subtitle": "Tradición y tecnología en un solo lugar",
+        "button": {
+          "text": "Ver destino",
+          "link": "https://example.com/destinos/tokyo"
+        }
+      },
+      {
+        "id": 3,
+        "image": "https://cdn.buttercms.com/UsZvYCTJucZGyQcBoukQ",
+        "title": "Nueva York, Estados Unidos",
+        "subtitle": "La ciudad que nunca duerme",
+        "button": {
+          "text": "Ver destino",
+          "link": "https://example.com/destinos/new-york"
+        }
+      },
+      {
+        "id": 4,
+        "image": "https://d296xu67oj0g2g.cloudfront.net/lm_cms/images/CMS/AVMODULES/GALLERY/black-card.webp",
+        "title": "Bali, Indonesia",
+        "subtitle": "Naturaleza, playas y relajación",
+        "button": {
+          "text": "Ver destino",
+          "link": "https://example.com/destinos/bali"
+        }
+      }
+    ]
+  },
+"footer": {
+    "socials": [
+      {
+        "id": 1,
+        "name": "Facebook",
+        "icon": "https://example.com/icons/facebook.svg",
+        "link": "https://facebook.com/tu-pagina"
+      },
+      {
+        "id": 2,
+        "name": "Instagram",
+        "icon": "https://example.com/icons/instagram.svg",
+        "link": "https://instagram.com/tu-pagina"
+      },
+      {
+        "id": 3,
+        "name": "TikTok",
+        "icon": "https://example.com/icons/tiktok.svg",
+        "link": "https://tiktok.com/@tu-pagina"
+      },
+      {
+        "id": 4,
+        "name": "LinkedIn",
+        "icon": "https://example.com/icons/linkedin.svg",
+        "link": "https://linkedin.com/company/tu-pagina"
+      },
+      {
+        "id": 5,
+        "name": "YouTube",
+        "icon": "https://youtube.com/@tu-canal"
+      }
+    ],
+    "copyright": "© 2026 Tu Empresa. Todos los derechos reservados.",
+    "texts": [
+      "Política de privacidad",
+      "Términos y condiciones",
+      "Soporte",
+      "Contacto",
+      "Mapa del sitio"
+    ]
+  }
+}
