@@ -131,31 +131,32 @@
       {
         "id": 1,
         "name": "Facebook",
-        "icon": "https://example.com/icons/facebook.svg",
-        "link": "https://facebook.com/tu-pagina"
+        "icon": "https://cdn.buttercms.com/unsdj4ecQaeXuxVqUCLI",
+        "link": "https://facebook.com"
       },
       {
         "id": 2,
         "name": "Instagram",
-        "icon": "https://example.com/icons/instagram.svg",
-        "link": "https://instagram.com/tu-pagina"
+        "icon": "https://cdn.buttercms.com/XyA9hpMgSwWmxRa8COAl",
+        "link": "https://instagram.com"
       },
       {
         "id": 3,
         "name": "TikTok",
-        "icon": "https://example.com/icons/tiktok.svg",
-        "link": "https://tiktok.com/@tu-pagina"
+        "icon": "https://cdn.buttercms.com/48riXlbTN2lhNsly7vRA",
+        "link": "https://tiktok.com"
       },
       {
         "id": 4,
         "name": "LinkedIn",
-        "icon": "https://example.com/icons/linkedin.svg",
-        "link": "https://linkedin.com/company/tu-pagina"
+        "icon": "https://cdn.buttercms.com/iUNA45UFTmKijYZYKd0w",
+        "link": "https://linkedin.com"
       },
       {
         "id": 5,
         "name": "YouTube",
-        "icon": "https://youtube.com/@tu-canal"
+        "icon": "https://cdn.buttercms.com/nO5WI6RnThGszFUmGLh5",
+        "link": "https://youtube.com"
       }
     ],
     "copyright": "© 2026 Tu Empresa. Todos los derechos reservados.",
